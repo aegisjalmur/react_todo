@@ -1,3 +1,9 @@
+Reviving react skills in order to land a job this time!
+This is the first project on the journey.. more to come soon!
+
+This is a small todo App written with React. Been coding along a tutorial, it covers react basics such as state and components.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
